@@ -1,3 +1,4 @@
+//insert the data into mysql database using statement interface
 import java.sql.DriverManager;
 
 import java.sql.*;
